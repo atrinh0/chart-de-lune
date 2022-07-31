@@ -2,9 +2,15 @@
 
 Using Swift Charts and Voiceover Chart Descriptor to compose music. 🤯
 
+<img src="assets/debussy.jpg" width="200">
+
+Image source: https://hadikarimi.com/portfolio/claude-debussy-1908
+
 ### Output
 
 > Note: Turn the **sound on** to hear the output
+
+Song: *Clair de Lune* by Claude Debussy
 
 https://user-images.githubusercontent.com/16542463/182043348-45721863-f3da-4c25-a7f5-37e597f6e787.mp4
 
@@ -40,6 +46,6 @@ Using [Piano Key Detector](https://apps.apple.com/al/app/piano-key-detector/id16
 //        .init(time: 21, value: 100) // G6
 ```
 
-Once the notes were identified, a simple version of <i>Clair de lune</i> was found, https://www.youtube.com/watch?v=ra08MiW8jLw
+Once the notes were identified, a simple version of <i>Clair de Lune</i> was found, https://www.youtube.com/watch?v=ra08MiW8jLw
 
 This was manually mapped to the music notes identified above, with pauses in the song where appropriate. 
